@@ -6,8 +6,8 @@ A useful Python program to block any distracting websites, such as Facebook, whi
 
 ## Useful Information 
 
-Host file in Windows: `C:\Windows\System32\drivers\etc`
-Host file in Mac/Linux: `/etc/hosts`
+- Host file in Windows: `C:\Windows\System32\drivers\etc`
+- Host file in Mac/Linux: `/etc/hosts`
 
 ## Implementation
 
